@@ -24,6 +24,6 @@ Hiragana (ひらがな) is a Japanese syllabary, one component of the Japanese w
 |---|---|---|---|---|---|
 | **G** | が (ga) | ぎ (gi) | ぐ (gu) | げ (ge) | ご (go) |
 | **Z** | ざ (za) | じ (ji) | ず (zu) | ぜ (ze) | ぞ (zo) |
-| **D** | だ (da) | ぢ (ji/dji) | づ (zu/dzu) | で (de) | ど (do) |
+| **D** | だ (da) | ぢ (ji) | づ (zu) | で (de) | ど (do) |
 | **B** | ば (ba) | び (bi) | ぶ (bu) | べ (be) | ぼ (bo) |
 | **P** | ぱ (pa) | ぴ (pi) | ぷ (pu) | ぺ (pe) | ぽ (po) |
