@@ -12,7 +12,8 @@ This repository contains my study notes and resources for the Japanese Language 
 - [Listening](#listening)
 
 ## Hiragana & Katakana
-*Notes on reading and writing basic kana characters go here.*
+- [Hiragana (ひらがな)](./hiragana-katakana/hiragana.md)
+- [Katakana (カタカナ)](./hiragana-katakana/katakana.md)
 
 ## Vocabulary
 *Notes on N5 vocabulary go here.*
