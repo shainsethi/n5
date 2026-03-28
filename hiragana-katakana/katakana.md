@@ -24,6 +24,6 @@ Katakana (カタカナ) is a Japanese syllabary, primarily used for foreign word
 |---|---|---|---|---|---|
 | **G** | ガ (ga) | ギ (gi) | グ (gu) | ゲ (ge) | ゴ (go) |
 | **Z** | ザ (za) | ジ (ji) | ズ (zu) | ゼ (ze) | ゾ (zo) |
-| **D** | ダ (da) | ヂ (ji/dji) | ヅ (zu/dzu) | デ (de) | ド (do) |
+| **D** | ダ (da) | ヂ (ji) | ヅ (zu) | デ (de) | ド (do) |
 | **B** | バ (ba) | ビ (bi) | ブ (bu) | ベ (be) | ボ (bo) |
 | **P** | パ (pa) | ピ (pi) | プ (pu) | ペ (pe) | ポ (po) |
