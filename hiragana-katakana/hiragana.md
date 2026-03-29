@@ -27,3 +27,19 @@ Hiragana (ひらがな) is a Japanese syllabary, one component of the Japanese w
 | **D** | だ (da) | ぢ (ji) | づ (zu) | で (de) | ど (do) |
 | **B** | ば (ba) | び (bi) | ぶ (bu) | べ (be) | ぼ (bo) |
 | **P** | ぱ (pa) | ぴ (pi) | ぷ (pu) | ぺ (pe) | ぽ (po) |
+
+## Contracted Sounds (Yōon)
+
+| | ya | yu | yo |
+|---|---|---|---|
+| **K** | きゃ (kya) | きゅ (kyu) | きょ (kyo) |
+| **S** | しゃ (sha) | しゅ (shu) | しょ (sho) |
+| **C** | ちゃ (cha) | ちゅ (chu) | ちょ (cho) |
+| **N** | にゃ (nya) | にゅ (nyu) | にょ (nyo) |
+| **H** | ひゃ (hya) | ひゅ (hyu) | ひょ (hyo) |
+| **M** | みゃ (mya) | みゅ (myu) | みょ (myo) |
+| **R** | りゃ (rya) | りゅ (ryu) | りょ (ryo) |
+| **G** | ぎゃ (gya) | ぎゅ (gyu) | ぎょ (gyo) |
+| **J** | じゃ (ja) | じゅ (ju) | じょ (jo) |
+| **B** | びゃ (bya) | びゅ (byu) | びょ (byo) |
+| **P** | ぴゃ (pya) | ぴゅ (pyu) | ぴょ (pyo) |
