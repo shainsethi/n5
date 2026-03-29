@@ -5,6 +5,7 @@ This repository contains my study notes and resources for the Japanese Language 
 ## Table of Contents
 
 - [Hiragana & Katakana](#hiragana--katakana)
+- [Numbers](#numbers)
 - [Vocabulary](#vocabulary)
 - [Grammar](#grammar)
 - [Kanji](#kanji)
@@ -12,8 +13,12 @@ This repository contains my study notes and resources for the Japanese Language 
 - [Listening](#listening)
 
 ## Hiragana & Katakana
-- [Hiragana (ひらがな)](./hiragana-katakana/hiragana.md)
-- [Katakana (カタカナ)](./hiragana-katakana/katakana.md)
+- [Hiragana (ひらがな)](./hiragana-katakana/hiragana.md): Used for basic native Japanese sounds.
+- [Katakana (カタカナ)](./hiragana-katakana/katakana.md): Used for foreign words and loanwords.
+- **Romaji (ローマ字)**: The Latin alphabet used to help learners read Japanese.
+
+## Numbers
+- [Numbers (数字)](./numbers.md): Basic Japanese numbering system and counting.
 
 ## Vocabulary
 *Notes on N5 vocabulary go here.*

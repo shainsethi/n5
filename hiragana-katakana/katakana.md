@@ -27,3 +27,19 @@ Katakana (カタカナ) is a Japanese syllabary, primarily used for foreign word
 | **D** | ダ (da) | ヂ (ji) | ヅ (zu) | デ (de) | ド (do) |
 | **B** | バ (ba) | ビ (bi) | ブ (bu) | ベ (be) | ボ (bo) |
 | **P** | パ (pa) | ピ (pi) | プ (pu) | ペ (pe) | ポ (po) |
+
+## Contracted Sounds (Yōon)
+
+| | ya | yu | yo |
+|---|---|---|---|
+| **K** | キャ (kya) | キュ (kyu) | キョ (kyo) |
+| **S** | シャ (sha) | シュ (shu) | ショ (sho) |
+| **C** | チャ (cha) | チュ (chu) | チョ (cho) |
+| **N** | ニャ (nya) | ニュ (nyu) | ニョ (nyo) |
+| **H** | ヒャ (hya) | ヒュ (hyu) | ヒョ (hyo) |
+| **M** | ミャ (mya) | ミュ (myu) | ミョ (myo) |
+| **R** | リャ (rya) | リュ (ryu) | リョ (ryo) |
+| **G** | ギャ (gya) | ギュ (gyu) | ギョ (gyo) |
+| **J** | ジャ (ja) | ジュ (ju) | ジョ (jo) |
+| **B** | ビャ (bya) | ビュ (byu) | ビョ (byo) |
+| **P** | ピャ (pya) | ピュ (pyu) | ピョ (pyo) |
