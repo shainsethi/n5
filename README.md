@@ -18,7 +18,7 @@ This repository contains my study notes and resources for the Japanese Language 
 - **Romaji (ローマ字)**: The Latin alphabet used to help learners read Japanese.
 
 ## Numbers
-- [Numbers (数字)](./numbers.md): Basic Japanese numbering system and counting.
+- [Numbers (数字)](./numbers/numbers.md): Basic Japanese numbering system and counting.
 
 ## Vocabulary
 *Notes on N5 vocabulary go here.*
