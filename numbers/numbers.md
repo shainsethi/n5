@@ -42,7 +42,7 @@ When moving into hundreds and thousands, pay close attention to **sound changes*
 | :--- | :--- | :--- | :--- |
 | **100** | 百 | ひゃく | hyaku |
 | **1,000** | 千 | せん | sen |
-| **10,000** | 万 | まん | man |
+| **10,000** | 万 | まん | ichi man |
 
 ### Common Irregulars
 > [!IMPORTANT]
