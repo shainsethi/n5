@@ -2,35 +2,40 @@
 
 This repository contains my study notes and resources for the Japanese Language Proficiency Test (JLPT) N5 level.
 
-## Table of Contents
+## Language Notation
 
-- [Hiragana & Katakana](#hiragana--katakana)
-- [Numbers](#numbers)
-- [Vocabulary](#vocabulary)
-- [Grammar](#grammar)
-- [Kanji](#kanji)
-- [Reading](#reading)
-- [Listening](#listening)
-
-## Hiragana & Katakana
-- [Hiragana (ひらがな)](./hiragana-katakana/hiragana.md): Used for basic native Japanese sounds.
-- [Katakana (カタカナ)](./hiragana-katakana/katakana.md): Used for foreign words and loanwords.
+- **Hiragana (ひらがな)**: Used for native Japanese sounds.
+- **Katakana (カタカナ)**: Used for foreign words and loanwords.
 - **Romaji (ローマ字)**: The Latin alphabet used to help learners read Japanese.
 
-## Numbers
-- [Numbers (数字)](./numbers/numbers.md): Basic Japanese numbering system and counting.
+---
 
-## Vocabulary
-*Notes on N5 vocabulary go here.*
+## 📚 Table of Contents
 
-## Grammar
-*Notes on N5 grammar rules and particle usage go here.*
+### 1. Writing Systems
+| Topic | Link |
+| :--- | :--- |
+| Hiragana (ひらがな) | [hiragana.md](./hiragana-katakana/hiragana.md) |
+| Katakana (カタカナ) | [katakana.md](./hiragana-katakana/katakana.md) |
 
-## Kanji
-*Notes on the ~100 N5 kanji characters and their readings go here.*
+### 2. Numbers
+| Topic | Link |
+| :--- | :--- |
+| Numbers (数字) | [numbers.md](./numbers/numbers.md) |
 
-## Reading
-*Practice notes and reading comprehension strategies go here.*
+### 3. Vocabulary
+| Topic | Link |
+| :--- | :--- |
+| Vocabulary (語彙) | [vocabulary.md](./vocabulary/vocabulary.md) |
 
-## Listening
-*Notes from listening practice and common phrases go here.*
+### 4. Grammar
+*Coming soon — notes on N5 grammar rules and particle usage.*
+
+### 5. Kanji
+*Coming soon — notes on the ~100 N5 kanji characters and their readings.*
+
+### 6. Reading
+*Coming soon — practice notes and reading comprehension strategies.*
+
+### 7. Listening
+*Coming soon — notes from listening practice and common phrases.*
