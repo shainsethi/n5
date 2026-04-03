@@ -26,7 +26,7 @@ For months, simply add **月 (gatsu)** to the number.
 
 ## Days of the Month (日 - nichi / ka)
 
-Days 1-10, 14, 20, and 24 are highly irregular. This is heavily tested in N5!
+Days 1-10, 14, 20, and are highly irregular. This is heavily tested in N5!
 
 | Day | Kanji | Reading | | Day | Kanji | Reading |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -40,7 +40,6 @@ Days 1-10, 14, 20, and 24 are highly irregular. This is heavily tested in N5!
 | **8th** | 八日 | **youka** | | 18th | 十八日 | jū-hachi-nichi |
 | **9th** | 九日 | **kokonoka** | | 19th | 十九日 | jū-ku-nichi |
 | **10th** | 十日 | **tooka** | | **20th** | 二十日 | **hatsuka** |
-| | | | | | **24th** | 二十四日 | **ni-jū-yokka** |
 
 *(For other days, use the regular number + **nichi**)*
 
