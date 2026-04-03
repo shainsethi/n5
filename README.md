@@ -2,35 +2,47 @@
 
 This repository contains my study notes and resources for the Japanese Language Proficiency Test (JLPT) N5 level.
 
+## Language Notation
+
+- **Hiragana (ひらがな)**: Used for native Japanese sounds.
+- **Katakana (カタカナ)**: Used for foreign words and loanwords.
+- **Romaji (ローマ字)**: The Latin alphabet used to help learners read Japanese.
+- **Kanji (漢字)**: Chinese characters used to represent concepts, nouns, and roots of verbs/adjectives.
+
+---
+
 ## Table of Contents
 
-- [Hiragana & Katakana](#hiragana--katakana)
-- [Numbers](#numbers)
-- [Vocabulary](#vocabulary)
-- [Grammar](#grammar)
-- [Kanji](#kanji)
-- [Reading](#reading)
-- [Listening](#listening)
+### 1. Writing Systems & Pronunciation
+| Topic | Link |
+| :--- | :--- |
+| Hiragana (ひらがな) | [hiragana.md](./hiragana-katakana/hiragana.md) |
+| Katakana (カタカナ) | [katakana.md](./hiragana-katakana/katakana.md) |
+| Pronunciation Rules | [pronunciation-rules.md](./hiragana-katakana/pronunciation-rules.md) |
 
-## Hiragana & Katakana
-- [Hiragana (ひらがな)](./hiragana-katakana/hiragana.md): Used for basic native Japanese sounds.
-- [Katakana (カタカナ)](./hiragana-katakana/katakana.md): Used for foreign words and loanwords.
-- **Romaji (ローマ字)**: The Latin alphabet used to help learners read Japanese.
+### 2. Numbers
+| Topic | Link |
+| :--- | :--- |
+| Numbers (数字) | [numbers.md](./numbers/numbers.md) |
 
-## Numbers
-- [Numbers (数字)](./numbers/numbers.md): Basic Japanese numbering system and counting.
+### 3. Time & Dates
+| Topic | Link |
+| :--- | :--- |
+| Dates & Time (日付と時間) | [time-and-dates.md](./time-and-dates/time-and-dates.md) |
 
-## Vocabulary
-*Notes on N5 vocabulary go here.*
+### 4. Basic Phrases
+| Topic | Link |
+| :--- | :--- |
+| Common Phrases (基本フレーズ) | [phrases.md](./phrases/phrases.md) |
 
-## Grammar
-*Notes on N5 grammar rules and particle usage go here.*
+### 5. Vocabulary
+| Topic | Link |
+| :--- | :--- |
+| Vocabulary (語彙) | [vocabulary.md](./vocabulary/vocabulary.md) |
 
-## Kanji
-*Notes on the ~100 N5 kanji characters and their readings go here.*
+### 6. Kanji
+| Topic | Link |
+| :--- | :--- |
+| Kanji (漢字) | [kanji.md](./kanji/kanji.md) |
 
-## Reading
-*Practice notes and reading comprehension strategies go here.*
 
-## Listening
-*Notes from listening practice and common phrases go here.*
