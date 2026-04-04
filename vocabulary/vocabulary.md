@@ -36,7 +36,9 @@
 | sensei | せんせい | 先生 | Teacher |
 | namae | なまえ | 名前 | Name |
 | isha | いしゃ | 医者 | Doctor |
+| haisha | はいしゃ | 歯医者 | Dentist |
 | keisatsukan | けいさつかん | 警察官 | Police officer |
+| kaishain | かいしゃいん | 会社員 | Office worker / Company employee |
 | nani / nan | なに / なん | 何 | What |
 | dare | だれ | 誰 | Who |
 | doko | どこ | | Where |
@@ -49,6 +51,7 @@
 | kashu | かしゅ | 歌手 | Singer |
 | yume | ゆめ | 夢 | Dream |
 | ie | いえ | 家 | House |
+| inu | いぬ | 犬 | Dog |
 | hai | はい | | Yes (Formal) |
 | iie | いいえ | | No (Formal) |
 | un | うん | | Yes (Casual) |
@@ -86,6 +89,7 @@
 | yotei | よてい | 予定 | Schedule / Plan |
 | mo | も | | Particle (Too / Also / As well) |
 | sai | さい | 歳 / 才 | Suffix for years old |
+| nansai | なんさい | 何歳 | How old |
 | jaarimasen | じゃありません | | is not (Formal negative present ending) |
 | janaidesu | じゃないです | | is not (Less formal negative present ending) |
 | jaarimasendeshita | じゃありませんでした | | was not (Formal negative past ending) |
