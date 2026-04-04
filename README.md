@@ -30,10 +30,10 @@ This repository contains my study notes and resources for the Japanese Language 
 | :--- | :--- |
 | Dates & Time (日付と時間) | [time-and-dates.md](./time-and-dates/time-and-dates.md) |
 
-### 4. Basic Phrases
+### 4. Grammar
 | Topic | Link |
 | :--- | :--- |
-| Common Phrases (基本フレーズ) | [phrases.md](./phrases/phrases.md) |
+| Grammar (文法) | [grammar.md](./grammar/grammar.md) |
 
 ### 5. Vocabulary
 | Topic | Link |
