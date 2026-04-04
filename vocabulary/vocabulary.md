@@ -28,5 +28,27 @@
 | kanojora | かのじょら | 彼女ら | They (female) |
 | yorugohan | よるごはん | 夜ご飯 | Dinner |
 | watashi no | わたしの | 私の | My / Mine |
+| gakusei | がくせい | 学生 | Student |
+| sensei | せんせい | 先生 | Teacher |
+| namae | なまえ | 名前 | Name |
+| isha | いしゃ | 医者 | Doctor |
+| nani / nan | なに / なん | 何 | What |
+| dare | だれ | 誰 | Who |
+| doko | どこ | | Where |
+| itsu | いつ | | When |
+| sukina | すきな | 好きな | Favorite |
+| tabemono | たべもの | 食べ物 | Food |
+| gakkou | がっこう | 学校 | School |
+| party | パーティー | | Party |
+| kashu | かしゅ | 歌手 | Singer |
+| ie | いえ | 家 | House |
+| hai | はい | | Yes (Formal) |
+| iie | いいえ | | No (Formal) |
+| un | うん | | Yes (Casual) |
+| uun | ううん | | No (Casual) |
+
+
+
+
 
 

@@ -65,3 +65,107 @@ graph LR
     style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
     style V fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
 ```
+---
+
+## 3. Asking Questions Practice
+
+### 3-A: Is today Tuesday?
+- **Japanese**: 今日は火曜日ですか。
+- **Romaji**: Kyou wa kayoubi desu ka?
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    Aff["今日 は 火曜日 です<br/>(Today is Tuesday)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 3-B: Is your name Miho?
+- **Japanese**: あなたの名前はミホですか。
+- **Romaji**: Anata no namae wa Miho desu ka?
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    Aff["あなたの名前 は ミホ です<br/>(Your name is Miho)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 3-C: Was your birthday yesterday?
+- **Japanese**: あなたの誕生日は昨日でしたか。
+- **Romaji**: Anata no tanjoubi wa kinou deshita ka?
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    Aff["あなたの誕生日 は 昨日 でした<br/>(Your birthday was yesterday)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+---
+
+### 3-D: Was your mother a doctor?
+- **Japanese**: あなたのお母さんは医者でしたか。
+- **Romaji**: Anata no okaasan wa isha deshita ka?
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    Aff["あなたのお母さん は 医者 でした<br/>(Your mother was a doctor)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+---
+
+## 4. Question Word Practice (What, Who, Where, When)
+
+### 4-A: What is your favorite food?
+- **Japanese**: あなたの好きな食べ物は何ですか。
+- **Romaji**: Anata no sukina tabemono wa nan desu ka?
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    Aff["あなたの好きな食べ物 は 何 です<br/>(Your favorite food is what)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 4-B: Where is your school?
+- **Japanese**: あなたの学校はどこですか。
+- **Romaji**: Anata no gakkou wa doko desu ka?
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    Aff["あなたの学校 は どこ です<br/>(Your school is where)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 4-C: When is the party?
+- **Japanese**: パーティーはいつですか。
+- **Romaji**: Paatii wa itsu desu ka?
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    Aff["パーティー は いつ です<br/>(The party is when)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 4-D: Who is your favorite singer?
+- **Japanese**: あなたの好きな歌手は誰ですか。
+- **Romaji**: Anata no sukina kashu wa dare desu ka?
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    Aff["あなたの好きな歌手 は 誰 です<br/>(Your favorite singer is who)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```

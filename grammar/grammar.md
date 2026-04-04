@@ -107,7 +107,7 @@ graph LR
 
 ---
 
-## 4. Practice Session
+## 4. Practice Session (Statements)
 
 Try to translate these sentences yourself!
 
@@ -116,4 +116,139 @@ Try to translate these sentences yourself!
 3. **My birthday was yesterday.**
 4. **My mother was a doctor.**
 
-👉 **[Check Solutions Here](./grammar-solutions.md)**
+**[Check Statement Solutions Here](./grammar-solutions.md#1-present-sentence-practice)**
+
+---
+
+## 5. Asking Questions
+
+In Japanese, we turn a statement into a question by simply adding **か (ka)** at the end.
+
+### How to Build a Question (3 Steps)
+
+| Step | Instruction | Example |
+| :--- | :--- | :--- |
+| **Step 1** | Build an affirmative sentence in English. | "Are you Japanese?" |
+| **Step 2** | Translate the affirmative sentence to Japanese. | あなたは日本人です。 (Anata wa nihonjin desu.) |
+| **Step 3** | Add **か?** at the end of the sentence. | **あなたは日本人ですか?** (Anata wa nihonjin desu **ka**?) |
+
+---
+
+### How to Answer a Question
+
+#### Formal Responses (Standard)
+1. **はい (Hai)** = Yes
+2. **いいえ (Iie)** = No
+
+#### Casual Responses (With Friends/Family)
+1. **うん (Un)** = Yes
+2. **ううん (Uun)** = No
+
+---
+
+## 6. Question Examples
+
+### A. "Are you a student?"
+```mermaid
+graph LR
+    Aff["あなた は 学生 です<br/>(You are a student)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### B. "Was yesterday Sunday?"
+```mermaid
+graph LR
+    Aff["昨日 は 日曜日 でした<br/>(Yesterday was Sunday)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### C. "Was dinner sushi?"
+```mermaid
+graph LR
+    Aff["夜ご飯 は 寿司 でした<br/>(Dinner was sushi)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+---
+
+## 7. Practice Session (Questions)
+
+Try to translate these questions:
+
+1. **Is today Tuesday?**
+2. **Is your name Miho?**
+3. **Was your birthday yesterday?**
+4. **Was your mother a doctor?**
+
+
+**[Check Question Solutions Here](./grammar-solutions.md#3-asking-questions-practice)**
+
+---
+
+## 8. Questions with "What, Who, Where, and When"
+
+When a question sentence includes any of the question words below, you will need to be careful with word order when building the sentence.
+
+### The Question Words
+- **What**: 何 (なに - nani / なん - nan)
+- **Who**: 誰 (だれ - dare)
+- **Where**: どこ (doko)
+- **When**: いつ (itsu)
+
+### How to Build a Question Word Sentence (2 Steps)
+
+| Step | Instruction | Example Sentence |
+| :--- | :--- | :--- |
+| **Step 1** | Switch the words before and after "is/are" in English. | "Where is your house?" -> **"Your house is where?"** |
+| **Step 2** | Translate the switched sentence into Japanese. | **あなたの家はどこですか。** (Anata no ie wa doko desu ka?) |
+
+---
+
+## 9. Examples with Diagrams
+
+### A. "Where is your house?"
+```mermaid
+graph LR
+    X["あなたの家<br/>anata no ie<br/><b>X (Your house)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["どこ<br/>doko<br/><b>Y (Where)</b>"] --- V["ですか?<br/>desu ka?<br/><b>is?</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### B. "Who is your teacher?"
+```mermaid
+graph LR
+    X["あなたの先生<br/>anata no sensei<br/><b>X (Your teacher)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["誰 (だれ)<br/>dare<br/><b>Y (Who)</b>"] --- V["ですか?<br/>desu ka?<br/><b>is?</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### C. "When is your birthday?"
+```mermaid
+graph LR
+    X["あなたの誕生日<br/>anata no tanjoubi<br/><b>X (Your birthday)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["いつ<br/>itsu<br/><b>Y (When)</b>"] --- V["ですか?<br/>desu ka?<br/><b>is?</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+---
+
+## 10. Practice Session (Question Words)
+
+Try to translate these questions:
+
+1. **What is your favorite food?**
+2. **Where is your school?**
+3. **When is the party?**
+4. **Who is your favorite singer?**
+
+**[Check Question Word Solutions Here](./grammar-solutions.md#4-question-word-practice-what-who-where-when)**
+
