@@ -36,6 +36,7 @@
 | sensei | せんせい | 先生 | Teacher |
 | namae | なまえ | 名前 | Name |
 | isha | いしゃ | 医者 | Doctor |
+| keisatsukan | けいさつかん | 警察官 | Police officer |
 | nani / nan | なに / なん | 何 | What |
 | dare | だれ | 誰 | Who |
 | doko | どこ | | Where |
@@ -44,7 +45,9 @@
 | tabemono | たべもの | 食べ物 | Food |
 | gakkou | がっこう | 学校 | School |
 | party | パーティー | | Party |
+| se-ru | セール | | Sale |
 | kashu | かしゅ | 歌手 | Singer |
+| yume | ゆめ | 夢 | Dream |
 | ie | いえ | 家 | House |
 | hai | はい | | Yes (Formal) |
 | iie | いいえ | | No (Formal) |
@@ -62,7 +65,7 @@
 | nihonjin | にほんじん | 日本人 | Japanese (person) |
 | nihongo | にほんご | 日本語 | Japanese (language) |
 | amerika | アメリカ | | America (USA) |
-| amerikajin | アメリカじん | アメリカ人 | Anismerican (person) |
+| amerikajin | アメリカじん | アメリカ人 | American (person) |
 | eigo | えいご | 英語 | English (language) |
 | supein | スペイン | | Spain |
 | supeinjin | スペインじん | スペイン人 | Spanish (person) |
@@ -83,6 +86,10 @@
 | yotei | よてい | 予定 | Schedule / Plan |
 | mo | も | | Particle (Too / Also / As well) |
 | sai | さい | 歳 / 才 | Suffix for years old |
+| jaarimasen | じゃありません | | is not (Formal negative present ending) |
+| janaidesu | じゃないです | | is not (Less formal negative present ending) |
+| jaarimasendeshita | じゃありませんでした | | was not (Formal negative past ending) |
+| janakattadesu | じゃなかったです | | was not (Less formal negative past ending) |
 
 
 

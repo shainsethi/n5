@@ -455,4 +455,197 @@ Try to translate these sentences:
 
 **[Check Particle "mo" Solutions Here](./grammar-solutions.md#6-particle-mo-も-practice-solutions)**
 
+---
 
+## 16. Negative Sentences (Present Tense)
+
+To say "X is not Y" in Japanese, you can use two common expressions. Both mean the same thing, but the nuance in formality can slightly differ.
+
+**Structure:** X は Y [Negative Ending]
+
+### Two Ways to Say "is not"
+
+| Japanese | Romaji | Formality |
+| :--- | :--- | :--- |
+| **じゃありません。** | jaarimasen. | Formal/Polite (Common in textbooks / written) |
+| **じゃないです。** | janaidesu. | Slightly less formal (Very common in spoken Japanese) |
+
+### Visual Breakdown
+
+Both structures follow the basic topic marker pattern.
+
+#### Option 1: じゃありません (jaarimasen)
+```mermaid
+graph LR
+    X["<b>X</b><br/>(Topic)"] --- P["<b>は</b><br/>wa<br/><b>Topic Particle</b>"] --- Y["<b>Y</b><br/>(Noun)"] --- V["<b>じゃありません。</b><br/>jaarimasen.<br/><b>is not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+#### Option 2: じゃないです (janaidesu)
+```mermaid
+graph LR
+    X["<b>X</b><br/>(Topic)"] --- P["<b>は</b><br/>wa<br/><b>Topic Particle</b>"] --- Y["<b>Y</b><br/>(Noun)"] --- V["<b>じゃないです。</b><br/>janaidesu.<br/><b>is not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+### Detailed Examples
+
+1. **Takeshi is not 15 years old.**
+- **Japanese**: たけしさんは十五歳（じゅうごさい）じゃありません。
+- **Romaji**: Takeshi-san wa juu-go sai jaarimasen.
+
+```mermaid
+graph LR
+    X["たけしさん<br/>Takeshi-san<br/><b>X (Takeshi)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["十五歳 (じゅうごさい)<br/>juu-go sai<br/><b>Y (15 years old)</b>"] --- V["じゃありません。<br/>jaarimasen.<br/><b>is not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+2. **Tomorrow is not Saturday.**
+- **Japanese**: 明日は土曜日じゃありません。
+- **Romaji**: Ashita wa doyoubi jaarimasen.
+
+```mermaid
+graph LR
+    X["明日 (あした)<br/>ashita<br/><b>X (Tomorrow)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["土曜日 (どようび)<br/>doyoubi<br/><b>Y (Saturday)</b>"] --- V["じゃありません。<br/>jaarimasen.<br/><b>is not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+3. **I am not a student.**
+- **Japanese**: 私は学生じゃありません。
+- **Romaji**: Watashi wa gakusei jaarimasen.
+
+```mermaid
+graph LR
+    X["私 (わたし)<br/>watashi<br/><b>X (I)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["学生 (がくせい)<br/>gakusei<br/><b>Y (Student)</b>"] --- V["じゃありません。<br/>jaarimasen.<br/><b>is not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+---
+
+## 17. Practice Session (Negative Sentences)
+
+Try to translate these sentences using **じゃありません**:
+
+1. **Takeshi is not 19 years old.**
+2. **My father is not a police officer.**
+
+**[Check Negative Solutions Here](./grammar-solutions.md#7-negative-sentences-practice-solutions)**
+
+---
+
+## 18. Negative Sentences (Past Tense)
+
+To say "X was not Y" in Japanese, you use the past tense versions of the negative endings.
+
+**Structure:** X は Y [Past Negative Ending]
+
+### Two Ways to Say "was not"
+
+| Japanese | Romaji | Formality |
+| :--- | :--- | :--- |
+| **じゃありませんでした。** | jaarimasendeshita. | Formal/Polite (Common in written / formal speech) |
+| **じゃなかったです。** | janakattadesu. | Slightly less formal (Common in spoken Japanese) |
+
+### Visual Breakdown
+
+Both structures follow the fundamental topic format, just modifying the "is not" to "was not".
+
+#### Option 1: じゃありませんでした (jaarimasendeshita)
+```mermaid
+graph LR
+    X["<b>X</b><br/>(Topic)"] --- P["<b>は</b><br/>wa<br/><b>Topic Particle</b>"] --- Y["<b>Y</b><br/>(Noun)"] --- V["<b>じゃありませんでした。</b><br/>jaarimasendeshita.<br/><b>was not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+#### Option 2: じゃなかったです (janakattadesu)
+```mermaid
+graph LR
+    X["<b>X</b><br/>(Topic)"] --- P["<b>は</b><br/>wa<br/><b>Topic Particle</b>"] --- Y["<b>Y</b><br/>(Noun)"] --- V["<b>じゃなかったです。</b><br/>janakattadesu.<br/><b>was not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+### Detailed Examples
+
+1. **I was not a student.**
+- **Japanese**: 私は学生じゃありませんでした。
+- **Romaji**: Watashi wa gakusei jaarimasendeshita.
+
+```mermaid
+graph LR
+    X["私 (わたし)<br/>watashi<br/><b>X (I)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["学生 (がくせい)<br/>gakusei<br/><b>Y (Student)</b>"] --- V["じゃありませんでした。<br/>jaarimasendeshita.<br/><b>was not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+2. **Yesterday was not a sale.**
+- **Japanese**: 昨日はセールじゃありませんでした。
+- **Romaji**: Kinou wa se-ru jaarimasendeshita.
+
+```mermaid
+graph LR
+    X["昨日 (きのう)<br/>kinou<br/><b>X (Yesterday)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["セール<br/>se-ru<br/><b>Y (Sale)</b>"] --- V["じゃありませんでした。<br/>jaarimasendeshita.<br/><b>was not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+3. **My dream was not to be a singer.**
+- **Japanese**: 私の夢は歌手じゃありませんでした。
+- **Romaji**: Watashi no yume wa kashu jaarimasendeshita.
+
+```mermaid
+graph LR
+    X["私の夢<br/>watashi no yume<br/><b>X (My dream)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["歌手 (かしゅ)<br/>kashu<br/><b>Y (Singer)</b>"] --- V["じゃありませんでした。<br/>jaarimasendeshita.<br/><b>was not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+4. **Mr. Suzuki was not a teacher.**
+- **Japanese**: 鈴木さんは先生じゃありませんでした。
+- **Romaji**: Suzuki-san wa sensei jaarimasendeshita.
+
+```mermaid
+graph LR
+    X["鈴木さん<br/>Suzuki-san<br/><b>X (Mr. Suzuki)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["先生 (せんせい)<br/>sensei<br/><b>Y (Teacher)</b>"] --- V["じゃありませんでした。<br/>jaarimasendeshita.<br/><b>was not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+---
+
+## 19. Practice Session (Past Negative Sentences)
+
+Try to translate these sentences using **じゃありませんでした**:
+
+1. **Takeshi was not 19 years old.**
+2. **My father was not a police officer.**
+
+**[Check Past Negative Solutions Here](./grammar-solutions.md#8-past-negative-sentences-practice-solutions)**

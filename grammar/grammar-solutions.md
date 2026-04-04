@@ -253,3 +253,67 @@ graph LR
     style Aff fill:#f98866,stroke:#333,stroke-width:2px,color:#000
     style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
 ```
+
+---
+
+## 7. Negative Sentences Practice Solutions
+
+### 7-A: Takeshi is not 19 years old.
+- **Japanese**: たけしさんは十九歳（じゅうきゅうさい）じゃありません。
+- **Romaji**: Takeshi-san wa juu-kyuu sai jaarimasen.
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    X["たけしさん<br/>Takeshi-san<br/><b>X (Takeshi)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["十九歳 (じゅうきゅうさい)<br/>juu-kyuu sai<br/><b>Y (19 years old)</b>"] --- V["じゃありません。<br/>jaarimasen.<br/><b>is not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 7-B: My father is not a police officer.
+- **Japanese**: 私のお父さんは警察官じゃありません。
+- **Romaji**: Watashi no otousan wa keisatsukan jaarimasen.
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    X["私のお父さん<br/>watashi no otousan<br/><b>X (My father)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["警察官 (けいさつかん)<br/>keisatsukan<br/><b>Y (Police officer)</b>"] --- V["じゃありません。<br/>jaarimasen.<br/><b>is not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+---
+
+## 8. Past Negative Sentences Practice Solutions
+
+### 8-A: Takeshi was not 19 years old.
+- **Japanese**: たけしさんは十九歳じゃありませんでした。
+- **Romaji**: Takeshi-san wa juu-kyuu sai jaarimasendeshita.
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    X["たけしさん<br/>Takeshi-san<br/><b>X (Takeshi)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["十九歳 (じゅうきゅうさい)<br/>juu-kyuu sai<br/><b>Y (19 years old)</b>"] --- V["じゃありませんでした。<br/>jaarimasendeshita.<br/><b>was not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 8-B: My father was not a police officer.
+- **Japanese**: 私のお父さんは警察官じゃありませんでした。
+- **Romaji**: Watashi no otousan wa keisatsukan jaarimasendeshita.
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    X["私のお父さん<br/>watashi no otousan<br/><b>X (My father)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["警察官 (けいさつかん)<br/>keisatsukan<br/><b>Y (Police officer)</b>"] --- V["じゃありませんでした。<br/>jaarimasendeshita.<br/><b>was not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
