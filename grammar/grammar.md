@@ -252,3 +252,207 @@ Try to translate these questions:
 
 **[Check Question Word Solutions Here](./grammar-solutions.md#4-question-word-practice-what-who-where-when)**
 
+
+---
+
+## 11. Nationality and Language
+
+In Japanese, you can easily form the name of a nationality or a language by adding a specific suffix to the country name.
+
+### Suffix Rules
+- **Country + 人 (jin) = Nationality**
+    - Example: 日本 (Nihon) + 人 (jin) = **日本人** (Nihonjin / Japanese person)
+- **Country + 語 (go) = Language**
+    - Example: 日本 (Nihon) + 語 (go) = **日本語** (Nihongo / Japanese language)
+
+### Country Comparison Table
+
+| Country | Romaji | Nationality (...人) | Language (...語) |
+| :--- | :--- | :--- | :--- |
+| **Japan** | Nihon | 日本人 (Japanese) | 日本語 (Japanese) |
+| **Spain** | Supein | スペイン人 (Spanish) | スペイン語 (Spanish) |
+| **China** | Chuugoku | 中国人 (Chinese) | 中国語 (Chinese) |
+| **Germany** | Doitsu | ドイツ人 (German) | ドイツ語 (German) |
+| **Australia** | Oosutoraria | オーストラリア人 (Australian) | 英語* (English) |
+| **USA** | Amerika | アメリカ人 (American) | 英語* (English) |
+
+> [!NOTE]
+> **Exception for English Language**:
+> For countries that speak English (like USA, Australia, or UK), the word for the language is **英語 (えいご - Eigo)**, not "Amerikago" or others.
+
+---
+
+## 12. The Particle "no" (の)
+
+The particle **の (no)** is used to connect two nouns. It often functions like "'s" in English or the word "of".
+
+### Structure: Noun 1 + の + Noun 2
+
+| Example | Japanese | Romaji | Meaning |
+| :--- | :--- | :--- | :--- |
+| **Possession** | 私**の**名前 | Watashi **no** namae | My name |
+| **Relationship** | たけしさん**の**お母さん | Takeshi-san **no** okaasan | Takeshi's mother |
+| **Category** | 日本語**の**先生 | Nihongo **no** sensei | Japanese language teacher |
+
+### Visual Breakdown (Generic Structure)
+```mermaid
+graph LR
+    N1["<b>Noun 1</b><br/>(Owner / Topic)"] --- P["<b>の</b><br/>no"] --- N2["<b>Noun 2</b><br/>(Thing / Concept)"]
+    style N1 fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+    style N2 fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+```
+
+### Examples with Diagrams
+
+1. **My name**
+- **Japanese**: 私の名前
+- **Romaji**: Watashi no namae
+
+```mermaid
+graph LR
+    N1["私<br/>watashi<br/><b>Noun 1 (Owner)</b>"] --- P["<b>の</b><br/>no"] --- N2["名前<br/>namae<br/><b>Noun 2 (Possession)</b>"]
+    style N1 fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+    style N2 fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+```
+
+2. **Takeshi's phone number**
+- **Japanese**: たけしさんの電話番号
+- **Romaji**: Takeshi-san no denwa bangou
+
+```mermaid
+graph LR
+    N1["たけしさん<br/>Takeshi-san<br/><b>Noun 1 (Owner)</b>"] --- P["<b>の</b><br/>no"] --- N2["電話番号<br/>denwa bangou<br/><b>Noun 2 (Possession)</b>"]
+    style N1 fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+    style N2 fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+```
+
+3. **A Japanese language teacher**
+- **Japanese**: 日本語の先生
+- **Romaji**: Nihongo no sensei
+
+```mermaid
+graph LR
+    N1["日本語<br/>Nihongo<br/><b>Noun 1 (Category)</b>"] --- P["<b>の</b><br/>no"] --- N2["先生<br/>sensei<br/><b>Noun 2 (Topic)</b>"]
+    style N1 fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+    style N2 fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+```
+
+---
+
+### **Important: Difference between は (wa) and の (no)**
+
+It is very important to use the correct particle, as it changes the whole meaning of the sentence!
+
+1.  **Noun 1 は Noun 2** (Noun 1 **IS** Noun 2)
+    - *Example*: わたし**は**お母さんです。 (Watashi **wa** okaasan desu.)
+    - *Meaning*: **I am** a mother.
+
+2.  **Noun 1 の Noun 2** (Noun 2 **OF** Noun 1)
+    - *Example*: わたし**の**お母さんです。 (Watashi **no** okaasan desu.)
+    - *Meaning*: (This/She) is **my** mother.
+
+---
+
+### What is a Noun?
+In case you forgot, a **Noun** is a word that represents a:
+- **Person** (Watashi, Sensei, Okaasan)
+- **Place** (Australia, Gakkou)
+- **Thing/Concept** (Namae, Nihongo, Denwa bangou)
+
+---
+
+## 13. Practice Session (Particle "no")
+
+Try to translate these phrases:
+
+1. **Spanish language teacher**
+2. **My summer vacation**
+
+**[Check Particle "no" Solutions Here](./grammar-solutions.md#5-particle-no-の-practice)**
+
+---
+
+## 14. The Particle "mo" (も)
+
+The particle **も (mo)** is used to mean "too", "also", or "as well". 
+
+### Function: Replacing the Topic Marker
+In a sentence, **も (mo)** replaces the topic particle **は (wa)** when you want to show that the topic is the same as a previous one or adds to a previous statement.
+
+| Particle | Meaning | Example (Japanese) | Meaning |
+| :--- | :--- | :--- | :--- |
+| **は (wa)** | Topic Marker (is/am/are) | 私は日本人です。 | I am Japanese. |
+| **も (mo)** | Also / Too | **私 も 日本人 です。** | **I am Japanese too.** |
+
+### Visual Breakdown
+
+When we use **も (mo)** instead of **は (wa)**, the structure remains the same, but the "Topic" now includes the meaning of "Also".
+
+```mermaid
+graph LR
+    X["私 (わたし)<br/>watashi<br/><b>X (I)</b>"] --- P["<b>も</b><br/>mo<br/><b>Also / Too</b>"] --- Y["日本人 (にほんじん)<br/>nihonjin<br/><b>Y (Japanese)</b>"] --- V["です。<br/>desu.<br/><b>is</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#f98866,stroke:#333,stroke-width:2px,color:#d90000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#fdffb6,stroke:#333,stroke-width:2px,color:#000
+```
+
+### Detailed Examples
+
+1. **My mother is 42 years old.**
+- **Japanese**: 私のお母さんは四十二歳（よんじゅうにさい）です。
+- **Romaji**: Watashi no okaasan wa yonjuu-ni sai desu.
+
+```mermaid
+graph LR
+    X["私のお母さん<br/>watashi no okaasan<br/><b>X (My mother)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["四十二歳 (よんじゅうにさい)<br/>yonjuu-ni sai<br/><b>Y (42 years old)</b>"] --- V["です。<br/>desu.<br/><b>is</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#fdffb6,stroke:#333,stroke-width:2px,color:#000
+```
+
+2. **Miho's younger brother is a high school student.**
+- **Japanese**: ミホさんの弟は高校生です。
+- **Romaji**: Miho-san no otouto wa koukousei desu.
+
+```mermaid
+graph LR
+    X["ミホさんの弟<br/>Miho-san no otouto<br/><b>X (Miho's younger brother)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["高校生 (こうこうせい)<br/>koukousei<br/><b>Y (High school student)</b>"] --- V["です。<br/>desu.<br/><b>is</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#fdffb6,stroke:#333,stroke-width:2px,color:#000
+```
+
+3. **Satsuki is a Japanese language teacher too.**
+- **Japanese**: サツキさんも日本語の先生です。
+- **Romaji**: Satsuki-san mo nihongo no sensei desu.
+
+```mermaid
+graph LR
+    X["サツキさん<br/>Satsuki-san<br/><b>X (Satsuki)</b>"] --- P["<b>も</b><br/>mo<br/><b>Also / Too</b>"] --- Y["日本語の先生 (にほんごのせんせい)<br/>nihongo no sensei<br/><b>Y (Japanese teacher)</b>"] --- V["です。<br/>desu.<br/><b>is</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#f98866,stroke:#333,stroke-width:2px,color:#d90000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#fdffb6,stroke:#333,stroke-width:2px,color:#000
+```
+
+---
+
+## 15. Practice Session (Particle "mo" and Questions)
+
+Try to translate these sentences:
+
+1. **I am an international student.**
+2. **Satoshi is also a student.**
+3. **Is Satoshi a student?**
+4. **Was Satoshi also a student?**
+
+**[Check Particle "mo" Solutions Here](./grammar-solutions.md#6-particle-mo-も-practice-solutions)**
+
+
