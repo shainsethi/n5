@@ -169,3 +169,151 @@ graph LR
     style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
     style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
 ```
+---
+
+## 5. Particle "no" (の) Practice
+
+### 5-A: Spanish language teacher
+- **Japanese**: スペイン語の先生
+- **Romaji**: Supeingo no sensei
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    N1["スペイン語<br/>Supeingo<br/><b>Noun 1 (Category)</b>"] --- P["<b>の</b><br/>no"] --- N2["先生<br/>sensei<br/><b>Noun 2 (Topic)</b>"]
+    style N1 fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+    style N2 fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 5-B: My summer vacation
+- **Japanese**: 私の夏休み
+- **Romaji**: Watashi no natsuyasumi
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    N1["私<br/>watashi<br/><b>Noun 1 (Owner)</b>"] --- P["<b>の</b><br/>no"] --- N2["夏休み<br/>natsuyasumi<br/><b>Noun 2 (Topic)</b>"]
+    style N1 fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+    style N2 fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+```
+---
+
+## 6. Particle "mo" (も) and Questions Solutions
+
+### 6-A: I am an international student.
+- **Japanese**: 私は留学生です。
+- **Romaji**: Watashi wa ryuugakusei desu.
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    X["私 (わたし)<br/>watashi<br/><b>X (I)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["留学生 (りゅうがくせい)<br/>ryuugakusei<br/><b>Y (International student)</b>"] --- V["です。<br/>desu.<br/><b>is</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#fdffb6,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 6-B: Satoshi is also a student.
+- **Japanese**: サトシさんも学生です。
+- **Romaji**: Satoshi-san mo gakusei desu.
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    X["サトシさん<br/>Satoshi-san<br/><b>X (Satoshi)</b>"] --- P["<b>も</b><br/>mo<br/><b>Also / Too</b>"] --- Y["学生 (がくせい)<br/>gakusei<br/><b>Y (Student)</b>"] --- V["です。<br/>desu.<br/><b>is</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#f98866,stroke:#333,stroke-width:2px,color:#d90000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#fdffb6,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 6-C: Is Satoshi a student?
+- **Japanese**: サトシさんは学生ですか。
+- **Romaji**: Satoshi-san wa gakusei desu ka?
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    Aff["サトシさんは学生です<br/>Satoshi-san wa gakusei desu<br/>(Satoshi is a student)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 6-D: Was Satoshi also a student?
+- **Japanese**: サトシさんも学生でしたか。
+- **Romaji**: Satoshi-san mo gakusei deshita ka?
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    Aff["サトシさんも学生でした<br/>Satoshi-san mo gakusei deshita<br/>(Satoshi was also a student)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#f98866,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+---
+
+## 7. Negative Sentences Practice Solutions
+
+### 7-A: Takeshi is not 19 years old.
+- **Japanese**: たけしさんは十九歳（じゅうきゅうさい）じゃありません。
+- **Romaji**: Takeshi-san wa juu-kyuu sai jaarimasen.
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    X["たけしさん<br/>Takeshi-san<br/><b>X (Takeshi)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["十九歳 (じゅうきゅうさい)<br/>juu-kyuu sai<br/><b>Y (19 years old)</b>"] --- V["じゃありません。<br/>jaarimasen.<br/><b>is not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 7-B: My father is not a police officer.
+- **Japanese**: 私のお父さんは警察官じゃありません。
+- **Romaji**: Watashi no otousan wa keisatsukan jaarimasen.
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    X["私のお父さん<br/>watashi no otousan<br/><b>X (My father)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["警察官 (けいさつかん)<br/>keisatsukan<br/><b>Y (Police officer)</b>"] --- V["じゃありません。<br/>jaarimasen.<br/><b>is not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+---
+
+## 8. Past Negative Sentences Practice Solutions
+
+### 8-A: Takeshi was not 19 years old.
+- **Japanese**: たけしさんは十九歳じゃありませんでした。
+- **Romaji**: Takeshi-san wa juu-kyuu sai jaarimasendeshita.
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    X["たけしさん<br/>Takeshi-san<br/><b>X (Takeshi)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["十九歳 (じゅうきゅうさい)<br/>juu-kyuu sai<br/><b>Y (19 years old)</b>"] --- V["じゃありませんでした。<br/>jaarimasendeshita.<br/><b>was not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 8-B: My father was not a police officer.
+- **Japanese**: 私のお父さんは警察官じゃありませんでした。
+- **Romaji**: Watashi no otousan wa keisatsukan jaarimasendeshita.
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    X["私のお父さん<br/>watashi no otousan<br/><b>X (My father)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["警察官 (けいさつかん)<br/>keisatsukan<br/><b>Y (Police officer)</b>"] --- V["じゃありませんでした。<br/>jaarimasendeshita.<br/><b>was not</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
