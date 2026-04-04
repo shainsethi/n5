@@ -151,7 +151,7 @@ In Japanese, we turn a statement into a question by simply adding **か (ka)** a
 ### A. "Are you a student?"
 ```mermaid
 graph LR
-    Aff["あなた は 学生 です<br/>(You are a student)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    Aff["あなた は 学生 です<br/>anata wa gakusei desu<br/>(You are a student)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
     style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
     style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
 ```
@@ -159,7 +159,7 @@ graph LR
 ### B. "Was yesterday Sunday?"
 ```mermaid
 graph LR
-    Aff["昨日 は 日曜日 でした<br/>(Yesterday was Sunday)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    Aff["昨日 は 日曜日 でした<br/>kinou wa nichiyoubi deshita<br/>(Yesterday was Sunday)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
     style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
     style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
 ```
@@ -167,7 +167,7 @@ graph LR
 ### C. "Was dinner sushi?"
 ```mermaid
 graph LR
-    Aff["夜ご飯 は 寿司 でした<br/>(Dinner was sushi)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    Aff["夜ご飯 は 寿司 でした<br/>yorugohan wa sushi deshita<br/>(Dinner was sushi)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
     style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
     style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
 ```

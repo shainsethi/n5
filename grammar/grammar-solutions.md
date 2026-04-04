@@ -76,7 +76,7 @@ graph LR
 #### **Breakdown Diagram**
 ```mermaid
 graph LR
-    Aff["今日 は 火曜日 です<br/>(Today is Tuesday)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    Aff["今日 は 火曜日 です<br/>kyou wa kayoubi desu<br/>(Today is Tuesday)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
     style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
     style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
 ```
@@ -88,7 +88,7 @@ graph LR
 #### **Breakdown Diagram**
 ```mermaid
 graph LR
-    Aff["あなたの名前 は ミホ です<br/>(Your name is Miho)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    Aff["あなたの名前 は ミホ です<br/>anata no namae wa miho desu<br/>(Your name is Miho)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
     style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
     style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
 ```
@@ -100,7 +100,7 @@ graph LR
 #### **Breakdown Diagram**
 ```mermaid
 graph LR
-    Aff["あなたの誕生日 は 昨日 でした<br/>(Your birthday was yesterday)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    Aff["あなたの誕生日 は 昨日 でした<br/>anata no tanjoubi wa kinou deshita<br/>(Your birthday was yesterday)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
     style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
     style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
 ```
@@ -113,7 +113,7 @@ graph LR
 #### **Breakdown Diagram**
 ```mermaid
 graph LR
-    Aff["あなたのお母さん は 医者 でした<br/>(Your mother was a doctor)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    Aff["あなたのお母さん は 医者 でした<br/>anata no okaasan wa isha deshita<br/>(Your mother was a doctor)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
     style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
     style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
 ```
@@ -129,7 +129,7 @@ graph LR
 #### **Breakdown Diagram**
 ```mermaid
 graph LR
-    Aff["あなたの好きな食べ物 は 何 です<br/>(Your favorite food is what)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    Aff["あなたの好きな食べ物 は 何 です<br/>anata no sukina tabemono wa nan desu<br/>(Your favorite food is what)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
     style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
     style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
 ```
@@ -141,7 +141,7 @@ graph LR
 #### **Breakdown Diagram**
 ```mermaid
 graph LR
-    Aff["あなたの学校 は どこ です<br/>(Your school is where)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    Aff["あなたの学校 は どこ です<br/>anata no gakkou wa doko desu<br/>(Your school is where)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
     style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
     style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
 ```
@@ -153,7 +153,7 @@ graph LR
 #### **Breakdown Diagram**
 ```mermaid
 graph LR
-    Aff["パーティー は いつ です<br/>(The party is when)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    Aff["パーティー は いつ です<br/>paatii wa itsu desu<br/>(The party is when)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
     style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
     style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
 ```
@@ -165,7 +165,7 @@ graph LR
 #### **Breakdown Diagram**
 ```mermaid
 graph LR
-    Aff["あなたの好きな歌手 は 誰 です<br/>(Your favorite singer is who)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    Aff["あなたの好きな歌手 は 誰 です<br/>anata no sukina kashu wa dare desu<br/>(Your favorite singer is who)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
     style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
     style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
 ```
