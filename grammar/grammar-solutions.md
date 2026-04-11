@@ -317,3 +317,174 @@ graph LR
     style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
     style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
 ```
+
+---
+
+## 9. This/That Practice Solutions
+
+### 9-A: This is my water bottle.
+- **Japanese**: これは私の水筒です。
+- **Romaji**: Kore wa watashi no suitou desu.
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    X["これ<br/>kore<br/><b>This</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["私の水筒 (わたしのすいとう)<br/>watashi no suitou<br/><b>Y (My water bottle)</b>"] --- V["です。<br/>desu.<br/><b>is</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#fdffb6,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 9-B: Which is your car?
+- **Japanese**: あなたの車はどれですか？
+- **Romaji**: Anata no kuruma wa dore desu ka?
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    X["あなたの車<br/>anata no kuruma<br/><b>X (Your car)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["どれ<br/>dore<br/><b>Y (Which)</b>"] --- V["ですか？<br/>desu ka?<br/><b>is?</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 9-C: What is that?
+- **Japanese**: あれは何ですか？
+- **Romaji**: Are wa nan desu ka?
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    X["あれ<br/>are<br/><b>That (far)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["何 (なん)<br/>nan<br/><b>Y (What)</b>"] --- V["ですか？<br/>desu ka?<br/><b>is?</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+---
+
+## 10. この/その/あの Practice Solutions
+
+### 10-A: This water bottle is mine.
+- **Japanese**: この水筒は私のです。
+- **Romaji**: Kono suitou wa watashi no desu.
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    D["この<br/>kono<br/><b>This</b>"] --- X["水筒 (すいとう)<br/>suitou<br/><b>Noun (Water bottle)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["私の<br/>watashi no<br/><b>Y (Mine)</b>"] --- V["です。<br/>desu.<br/><b>is</b>"]
+    style D fill:#e4c1f9,stroke:#333,stroke-width:2px,color:#000
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#fdffb6,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 10-B: Which phone is yours?
+- **Japanese**: どの携帯電話はあなたのですか？
+- **Romaji**: Dono keitaidenwa wa anata no desu ka?
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    D["どの<br/>dono<br/><b>Which</b>"] --- X["携帯電話 (けいたいでんわ)<br/>keitaidenwa<br/><b>Noun (Phone)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["あなたの<br/>anata no<br/><b>Y (Yours)</b>"] --- V["ですか？<br/>desu ka?<br/><b>is?</b>"]
+    style D fill:#e4c1f9,stroke:#333,stroke-width:2px,color:#000
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 10-C: That phone is mine.
+- **Japanese**: あの携帯電話は私のです。
+- **Romaji**: Ano keitaidenwa wa watashi no desu.
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    D["あの<br/>ano<br/><b>That (far)</b>"] --- X["携帯電話 (けいたいでんわ)<br/>keitaidenwa<br/><b>Noun (Phone)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["私の<br/>watashi no<br/><b>Y (Mine)</b>"] --- V["です。<br/>desu.<br/><b>is</b>"]
+    style D fill:#e4c1f9,stroke:#333,stroke-width:2px,color:#000
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#fdffb6,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 10-D: Is that lady Mikiko?
+- **Japanese**: あの女性はミキコさんですか？
+- **Romaji**: Ano josei wa Mikiko-san desu ka?
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    Aff["あの女性 は ミキコさん です<br/>ano josei wa Mikiko-san desu<br/>(That lady is Mikiko)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 10-E: That lady is not Mikiko.
+- **Japanese**: あの女性はミキコさんじゃありません。
+- **Romaji**: Ano josei wa Mikiko-san jaarimasen.
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    D["あの<br/>ano<br/><b>That (far)</b>"] --- X["女性 (じょせい)<br/>josei<br/><b>Noun (Lady)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["ミキコさん<br/>Mikiko-san<br/><b>Y (Mikiko)</b>"] --- V["じゃありません。<br/>jaarimasen.<br/><b>is not</b>"]
+    style D fill:#e4c1f9,stroke:#333,stroke-width:2px,color:#000
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#ff99c2,stroke:#333,stroke-width:2px,color:#000
+```
+
+---
+
+## 11. だれの (Whose) Practice Solutions
+
+### 11-A: Whose mother is she?
+- **Japanese**: 彼女は誰のお母さんですか？
+- **Romaji**: Kanojo wa dare no okaasan desu ka?
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    X["彼女 (かのじょ)<br/>kanojo<br/><b>X (She)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- QW["誰の<br/>dare no<br/><b>Whose</b>"] --- N["お母さん<br/>okaasan<br/><b>Noun (Mother)</b>"] --- V["ですか？<br/>desu ka?<br/><b>is?</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style QW fill:#e4c1f9,stroke:#333,stroke-width:2px,color:#000
+    style N fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 11-B: Whose house is that?
+- **Japanese**: あれは誰の家ですか？
+- **Romaji**: Are wa dare no ie desu ka?
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    X["あれ<br/>are<br/><b>That (far)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- QW["誰の<br/>dare no<br/><b>Whose</b>"] --- N["家 (いえ)<br/>ie<br/><b>Noun (House)</b>"] --- V["ですか？<br/>desu ka?<br/><b>is?</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style QW fill:#e4c1f9,stroke:#333,stroke-width:2px,color:#000
+    style N fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### 11-C: Whose wallet is this?
+- **Japanese**: これは誰の財布ですか？
+- **Romaji**: Kore wa dare no saifu desu ka?
+
+#### **Breakdown Diagram**
+```mermaid
+graph LR
+    X["これ<br/>kore<br/><b>This</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- QW["誰の<br/>dare no<br/><b>Whose</b>"] --- N["財布 (さいふ)<br/>saifu<br/><b>Noun (Wallet)</b>"] --- V["ですか？<br/>desu ka?<br/><b>is?</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style QW fill:#e4c1f9,stroke:#333,stroke-width:2px,color:#000
+    style N fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
