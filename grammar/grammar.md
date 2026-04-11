@@ -649,3 +649,322 @@ Try to translate these sentences using **じゃありませんでした**:
 2. **My father was not a police officer.**
 
 **[Check Past Negative Solutions Here](./grammar-solutions.md#8-past-negative-sentences-practice-solutions)**
+
+---
+
+## 20. "This" and "That" (これ、あれ、それ、どれ)
+
+### The Words
+
+* **これ (kore)**: Use "これ" for things that is close to the speaker.
+* **それ (sore)**: Use "それ" for things that is close to the listener.
+* **あれ (are)**: Use "あれ" for things that are far away from the speaker and the listener.
+* **どれ (dore)**: Use when you ask which one.
+
+> [!IMPORTANT]
+> **これ、あれ、それ、どれ will never be followed by a noun.**
+
+### Sentence Structures
+
+| Structure | Meaning |
+| :--- | :--- |
+| **これ/それ/あれ は X です。** <br/> (kore/sore/are wa X desu.) | This/That is X. |
+| **これ/それ/あれ は X ですか？** <br/> (kore/sore/are wa X desuka?) | Is this/that X? |
+| **X は どれ ですか？** <br/> (X wa dore desuka?) | Which one is X? |
+
+---
+
+## 21. Examples with Diagrams (This/That)
+
+### A. "This is a book."
+- **Japanese**: これは本です。
+- **Romaji**: Kore wa hon desu.
+
+```mermaid
+graph LR
+    X["これ<br/>kore<br/><b>This</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["本 (ほん)<br/>hon<br/><b>Y (Book)</b>"] --- V["です。<br/>desu.<br/><b>is</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#fdffb6,stroke:#333,stroke-width:2px,color:#000
+```
+
+### B. "That is my house."
+- **Japanese**: あれは私の家です。
+- **Romaji**: Are wa watashi no ie desu.
+
+```mermaid
+graph LR
+    X["あれ<br/>are<br/><b>That (far)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["私の家 (わたしのいえ)<br/>watashi no ie<br/><b>Y (My house)</b>"] --- V["です。<br/>desu.<br/><b>is</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#fdffb6,stroke:#333,stroke-width:2px,color:#000
+```
+
+### C. "Is this an apple?"
+- **Japanese**: これはりんごですか？
+- **Romaji**: Kore wa ringo desu ka?
+
+```mermaid
+graph LR
+    Aff["これ は りんご です<br/>kore wa ringo desu<br/>(This is an apple)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### D. "Is that your younger brother?"
+- **Japanese**: あれはあなたの弟ですか？
+- **Romaji**: Are wa anata no otouto desu ka?
+
+```mermaid
+graph LR
+    Aff["あれ は あなたの弟 です<br/>are wa anata no otouto desu<br/>(That is your younger brother)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### E. "Which is your pen?"
+- **Japanese**: あなたのペンはどれですか？
+- **Romaji**: Anata no pen wa dore desu ka?
+
+```mermaid
+graph LR
+    X["あなたのペン<br/>anata no pen<br/><b>X (Your pen)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["どれ<br/>dore<br/><b>Y (Which)</b>"] --- V["ですか？<br/>desu ka?<br/><b>is?</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### F. "Which is your favourite movie?"
+- **Japanese**: あなたの好きな映画はどれですか？
+- **Romaji**: Anata no sukina eiga wa dore desu ka?
+
+```mermaid
+graph LR
+    X["あなたの好きな映画<br/>anata no sukina eiga<br/><b>X (Your favourite movie)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["どれ<br/>dore<br/><b>Y (Which)</b>"] --- V["ですか？<br/>desu ka?<br/><b>is?</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+---
+
+## 22. Practice Session (This/That)
+
+Try to translate these sentences:
+
+1. **This is my water bottle.**
+2. **Which is your car?**
+3. **What is that?**
+
+**[Check This/That Solutions Here](./grammar-solutions.md#9-thisthat-practice-solutions)**
+
+---
+
+## 23. "This" and "That" Followed by a Noun (この、その、あの、どの)
+
+Unlike **これ/それ/あれ/どれ** (which stand alone), **この/その/あの/どの** are **always followed by a noun**.
+
+### The Words
+
+* **この (kono)**: Use "この" for things that are close to the speaker.
+* **その (sono)**: Use "その" for things that are close to the listener.
+* **あの (ano)**: Use "あの" for things that are far away from both the speaker and the listener.
+* **どの (dono)**: Use when you ask "which one."
+
+> [!IMPORTANT]
+> **この、その、あの、どの must ALWAYS be followed by a noun.**
+> - ✅ **この本** (kono hon) — This book
+> - ❌ **この** (kono) — *(cannot stand alone!)*
+>
+> Compare with これ/それ/あれ/どれ which **never** have a noun after them.
+
+### Sentence Structures
+
+| Structure | Meaning |
+| :--- | :--- |
+| **この/その/あの X は Y です。** <br/> (kono/sono/ano X wa Y desu.) | This/That X is Y. |
+| **この/その/あの X は Y ですか？** <br/> (kono/sono/ano X wa Y desuka?) | Is this/that X Y? |
+| **どの X は Y ですか？** <br/> (dono X wa Y desuka?) | Which X is Y? |
+
+---
+
+## 24. Examples with Diagrams (この/その/あの/どの)
+
+### A. "This book is mine."
+- **Japanese**: この本は私のです。
+- **Romaji**: Kono hon wa watashi no desu.
+
+```mermaid
+graph LR
+    D["この<br/>kono<br/><b>This</b>"] --- X["本 (ほん)<br/>hon<br/><b>Noun (Book)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["私の<br/>watashi no<br/><b>Y (Mine)</b>"] --- V["です。<br/>desu.<br/><b>is</b>"]
+    style D fill:#e4c1f9,stroke:#333,stroke-width:2px,color:#000
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#fdffb6,stroke:#333,stroke-width:2px,color:#000
+```
+
+### B. "That house is mine."
+- **Japanese**: あの家は私のです。
+- **Romaji**: Ano ie wa watashi no desu.
+
+```mermaid
+graph LR
+    D["あの<br/>ano<br/><b>That (far)</b>"] --- X["家 (いえ)<br/>ie<br/><b>Noun (House)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["私の<br/>watashi no<br/><b>Y (Mine)</b>"] --- V["です。<br/>desu.<br/><b>is</b>"]
+    style D fill:#e4c1f9,stroke:#333,stroke-width:2px,color:#000
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#fdffb6,stroke:#333,stroke-width:2px,color:#000
+```
+
+### C. "Is that person your friend?"
+- **Japanese**: あの人はあなたの友達ですか？
+- **Romaji**: Ano hito wa anata no tomodachi desu ka?
+
+```mermaid
+graph LR
+    Aff["あの人 は あなたの友達 です<br/>ano hito wa anata no tomodachi desu<br/>(That person is your friend)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### D. "Is this car yours?"
+- **Japanese**: この車はあなたのですか？
+- **Romaji**: Kono kuruma wa anata no desu ka?
+
+```mermaid
+graph LR
+    Aff["この車 は あなたの です<br/>kono kuruma wa anata no desu<br/>(This car is yours)"] --- Q["<b>か?</b><br/>ka?<br/><b>Question Particle</b>"]
+    style Aff fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### E. "Which pen is yours?"
+- **Japanese**: どのペンはあなたのですか？
+- **Romaji**: Dono pen wa anata no desu ka?
+
+```mermaid
+graph LR
+    D["どの<br/>dono<br/><b>Which</b>"] --- X["ペン<br/>pen<br/><b>Noun (Pen)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["あなたの<br/>anata no<br/><b>Y (Yours)</b>"] --- V["ですか？<br/>desu ka?<br/><b>is?</b>"]
+    style D fill:#e4c1f9,stroke:#333,stroke-width:2px,color:#000
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### F. "Which movie is popular?"
+- **Japanese**: どの映画は人気ですか？
+- **Romaji**: Dono eiga wa ninki desu ka?
+
+```mermaid
+graph LR
+    D["どの<br/>dono<br/><b>Which</b>"] --- X["映画 (えいが)<br/>eiga<br/><b>Noun (Movie)</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- Y["人気 (にんき)<br/>ninki<br/><b>Y (Popular)</b>"] --- V["ですか？<br/>desu ka?<br/><b>is?</b>"]
+    style D fill:#e4c1f9,stroke:#333,stroke-width:2px,color:#000
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style Y fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+---
+
+## 25. Practice Session (この/その/あの/どの)
+
+Try to translate these sentences:
+
+1. **This water bottle is mine.**
+2. **Which phone is yours?**
+3. **That phone is mine.**
+4. **Is that lady Mikiko?**
+5. **That lady is not Mikiko.**
+
+**[Check この/その/あの/どの Solutions Here](./grammar-solutions.md#10-konosonoano-practice-solutions)**
+
+---
+
+## 26. "Whose" — だれの (dare no) + Noun
+
+We already learned that the question word for "who" is **誰 (だれ - dare)**. To ask "**whose**", we simply add the particle **の (no)** after it.
+
+### The Word
+- **だれの (dare no)** = Whose
+
+> [!TIP]
+> Remember from Section 12, the particle **の (no)** connects two nouns to show possession.
+> - 私**の**名前 = **My** name
+> - たけし**の**お母さん = **Takeshi's** mother
+>
+> So **だれの** works the same way — it means "**who's**" or "**whose**":
+> - だれ**の**かばん = **Whose** bag
+> - だれ**の**車 = **Whose** car
+
+### Sentence Structures
+
+| Structure | Meaning |
+| :--- | :--- |
+| **これ/それ/あれ は だれの Noun ですか？** <br/> (kore/sore/are wa dare no Noun desu ka?) | Whose Noun is this/that? |
+| **これ/それ/あれ は [Person]の Noun です。** <br/> (kore/sore/are wa [Person] no Noun desu.) | This/That is [Person]'s Noun. |
+
+---
+
+## 27. Examples with Diagrams (だれの)
+
+### A. "Whose bag is this?"
+- **Japanese**: これは誰のかばんですか？
+- **Romaji**: Kore wa dare no kaban desu ka?
+
+```mermaid
+graph LR
+    X["これ<br/>kore<br/><b>This</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- QW["誰の<br/>dare no<br/><b>Whose</b>"] --- N["かばん<br/>kaban<br/><b>Noun (Bag)</b>"] --- V["ですか？<br/>desu ka?<br/><b>is?</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style QW fill:#e4c1f9,stroke:#333,stroke-width:2px,color:#000
+    style N fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+### B. "This is Sue's bag."
+- **Japanese**: これはスーさんのかばんです。
+- **Romaji**: Kore wa Suu-san no kaban desu.
+
+```mermaid
+graph LR
+    X["これ<br/>kore<br/><b>This</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- OW["スーさんの<br/>Suu-san no<br/><b>Sue's</b>"] --- N["かばん<br/>kaban<br/><b>Noun (Bag)</b>"] --- V["です。<br/>desu.<br/><b>is</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style OW fill:#e4c1f9,stroke:#333,stroke-width:2px,color:#000
+    style N fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#fdffb6,stroke:#333,stroke-width:2px,color:#000
+```
+
+### C. "Whose car is this?"
+- **Japanese**: これは誰の車ですか？
+- **Romaji**: Kore wa dare no kuruma desu ka?
+
+```mermaid
+graph LR
+    X["これ<br/>kore<br/><b>This</b>"] --- P["は<br/>wa<br/><b>Topic Particle</b>"] --- QW["誰の<br/>dare no<br/><b>Whose</b>"] --- N["車 (くるま)<br/>kuruma<br/><b>Noun (Car)</b>"] --- V["ですか？<br/>desu ka?<br/><b>is?</b>"]
+    style X fill:#ffadad,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#ffd6a5,stroke:#333,stroke-width:2px,color:#000
+    style QW fill:#e4c1f9,stroke:#333,stroke-width:2px,color:#000
+    style N fill:#caffbf,stroke:#333,stroke-width:2px,color:#000
+    style V fill:#9bf6ff,stroke:#333,stroke-width:2px,color:#000
+```
+
+---
+
+## 28. Practice Session (だれの)
+
+Try to translate these sentences:
+
+1. **Whose mother is she?**
+2. **Whose house is that?**
+3. **Whose wallet is this?**
+
+**[Check だれの Solutions Here](./grammar-solutions.md#11-dareno-whose-practice-solutions)**

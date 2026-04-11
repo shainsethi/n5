@@ -94,6 +94,19 @@
 | janaidesu | じゃないです | | is not (Less formal negative present ending) |
 | jaarimasendeshita | じゃありませんでした | | was not (Formal negative past ending) |
 | janakattadesu | じゃなかったです | | was not (Less formal negative past ending) |
+| ringo | りんご | 林檎 | Apple |
+| hon | ほん | 本 | Book |
+| suitou | すいとう | 水筒 | Water bottle |
+| kuruma | くるま | 車 | Car |
+| keitaidenwa | けいたいでんわ | 携帯電話 | Cell phone / Mobile phone |
+| pen | ペン | | Pen |
+| eiga | えいが | 映画 | Movie |
+| tomodachi | ともだち | 友達 | Friend |
+| josei | じょせい | 女性 | Woman / Lady |
+| ninki | にんき | 人気 | Popular / Popularity |
+| hito | ひと | 人 | Person |
+| kaban | かばん | 鞄 | Bag |
+| saifu | さいふ | 財布 | Wallet |
 
 
 
