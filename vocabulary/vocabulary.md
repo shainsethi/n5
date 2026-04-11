@@ -1,5 +1,6 @@
 # N5 Vocabulary (語彙)
 
+> **Total Words: 100**
 
 ---
 
